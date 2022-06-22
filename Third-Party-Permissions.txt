@@ -1,0 +1,176 @@
+                             Indholdsfortegnelse:
+                             
+   1.  DSDO's ret til at bruge tredjeparts ordlister med valgt licens
+   2.  Tilladelse til at bruge DSL's åbne sprogressourcer
+   2.1 English version of 1.
+   3.  Tilladelse til at bruge gadenavne
+
+
+
+     1.  DSDO's ret til at bruge tredjeparts ordlister med valgt licens
+
+
+Alle de følgende brugsbetingelser er kompatible med DSDO og den licens, som
+DSDO er udgivet under, GPLv2.
+
+Tilegnelseskravet mener jeg at have opfyldt ved at inkludere
+rettighedshaverne i filen, "contributors".
+
+Det eneste tvivlsspørgsmål var om DSDO var i konkurrence med DSL's
+produkter. Dette har Jørg Rasmussen fra DSL bekræftet at DSDO ikke er, i
+flg. email:
+
+   From: Digitale Ordbøger og tekstkorpus <korpus@dsl.dk>
+   Date: Fri, 3 Jun 2022 13:40:17 +0200
+   Subject: Re: Brug af Fuldformsliste fra Den Danske Ordbog
+   To: Morten Bo Johansen <mbj@mbjnet.dk>
+   
+   Hej Morten
+   
+   DSDO ser ikke ud til at stå i konkurrence til DDO, så det er helt i orden
+   at inkorporere lemmalisten fra Den Danske Ordbog
+   <https://korpus.dsl.dk/resources/details/ddo-lemmas.html> i DSDO, jf.
+   brugsbetingelserne <https://korpus.dsl.dk/resources/licences/dsl-open.html>.
+   
+   Venlige hilsner
+   Jørg Asmussen
+   
+   Den tir. 24. maj 2022 kl. 09.28 skrev Morten Bo Johansen <mbj@mbjnet.dk>:
+   
+   > Hej
+   >
+   > Jeg vedligeholder "Den store danske ordliste"¹ (DSDO), og jeg ville
+   > gerne inkorporere ord fra Den Danske Ordbog (DDO) i listen. Langt
+   > hovedparten af ordene i DDO vil allerede findes i DSDO, men der
+   > vil være en hel del, som er nye, og som jeg gerne ville have med.
+   >
+   > Ville dette være i orden i forhold til jeres brugbetingelser?
+   >
+   > Sigtet med DSDO er f.eks. at kunne være orddatabase i
+   > stavekontrolprogrammer som aspell og i maskinoversættelselsessystemer
+   > som apertium.
+   >
+   > Med venlig hilsen,
+   >
+   > Morten Bo Johansen
+
+
+           2. Tilladelse til at bruge DSL's åbne sprogressourcer
+                   
+
+Det Danske Sprog- og Litteraturselskab (DSL) udgiver bl.a. fuldformslister
+over data i "Ordbog over det danske Sprog" og "Den Danske Ordbog".
+
+Brugsbetingelserne på https://korpus.dsl.dk/resources/licences/dsl-open.html,
+stipulerer:
+
+  DSL's åbne sprogressourcer
+  
+  Disse brugsbetingelser gælder for de sprogressourcer, som er opført nederst
+  på siden.
+  
+  Det Danske Sprog- og Litteraturselskabs åbne sprogressourcer kan frit
+  downloades fra listen nederst på denne side. Ved at downloade en eller flere
+  ressourcefiler fra denne liste accepterer du de følgende brugsbetingelser og
+  forpligter dig til at overholde dem.
+  Betingelser for brug af DSL's åbne sprogressourcer
+  
+      Du må frit bruge Det Danske Sprog- og Litteraturselskabs åbne
+  sprogressourcer til de fleste formål, også kommercielt. Du må frit redigere
+  og føje til ressourcerne samt videredistribuere dem i et hvilket som helst
+  medie eller format.
+          Du må dog ikke bruge ressourcerne til at udgive en ordbog i nogen
+  form eller et andet produkt, som er i konkurrence med DSL's egne produkter.
+  
+      Det henstilles til dig at kreditere Det Danske Sprog- og
+  Litteraturselskab i publikationer og digitale produkter, der helt eller
+  delvist er baseret på DSL's sprogressourcer, og at give et link til dsl.dk.
+  Du må gøre det på enhver hensigtsmæssig måde, men ikke på en måde, der
+  antyder, at Det Danske Sprog- og Litteraturselskab støtter dig eller din
+  anvendelse af ressourcerne. Det Danske Sprog- og Litteraturselskab påskønner
+  at modtage enten en kopi af det færdige produkt eller publikationen eller et
+  link dertil.
+  
+  Er du i tvivl om, hvorvidt din brug falder ind under disse brugsbetingelser,
+  påhviler det dig at henvende dig til korpus@dsl.dk med henblik på en
+  afklaring.
+  
+  Du kan downloade de ønskede ressourcer fra listen nederst på siden.
+  DSL's open language resources
+  
+                            1.1 (engelsk version)
+  
+  These terms of use apply to te language resources listed at te bottom of
+  this page.
+  
+  Open language resources from te Society for Danish Language and Literature,
+  DSL, are for free download from te list at te bottom of this page. By
+  downloading one or more of te resource files from this list you accept and
+  commit yourself to comply with te following terms of use.
+  
+      You are free to use te Society of Danish Language and Literature's open
+  language resources for most purposes, even commercially. You are free to
+  edit and build upon te resources as well as redistribute them in any medium
+  or format.
+          However, you may not use te resources to publish a dictionary in any
+  form or any other product which is in competition with DSL's own products.
+  
+      You are requested to give appropriate credit to te te Society for Danish
+  Language and Literature, DSL, in publications and digital products based
+  entirely or partly on these language resources and provide a link to dsl.dk.
+  You may do so in any reasonable manner, but not in any way that suggests te
+  Society for Danish Language and Literature, DSL, endorses you or your use of
+  te resources. te Society for Danish Language and Literature, DSL,
+  appreciates to receive either a copy of a resulting product or publication
+  or a link to it.
+  
+  If you are in doubt whether your use is covered by theses terms of use, you
+  are obliged to contact korpus@dsl.dk for clarification.
+
+                   
+                    3. Tilladelse til at bruge gadenavne
+                   
+
+Data for danske gadenavne er hentet fra Styrelsen for Dataforsyning og
+Effektiviserings hjemmeside, https://api.dataforsyningen.dk/vejstykker?format=csv 
+
+Styrelsens licens, https://download.aws.dk/licens, stipulerer:
+
+
+  Vilkår for brug af danske offentlige data
+  
+  23. maj 2013
+  Generel information
+  
+  Styrelsen for Dataforsyning og Effektivisering, herefter Myndigheden,
+  som har de immaterielle rettigheder til Danmarks adresser udbudt
+  gennem AWS Suiten (herefter data), giver på nedenstående vilkår
+  brugsret til data.
+  
+  Vilkårene accepteres ved enhver brug af data. Vilkårene reguleres af
+  dansk ret. Brugsret
+  
+  Myndigheden giver en verdensomspændende, gratis, ikke-eksklusiv, og i
+  øvrigt ubegrænset brugsret til data, som frit bl.a. kan:
+  
+  kopieres, distribueres og offentliggøres, ændres og sammensættes med
+  andet materiale bruges kommercielt og ikke-kommercielt, Vilkår
+  
+  Data må ikke bruges på en måde, så det kan fremstå som om, at
+  myndigheden godkender, støtter, anbefaler eller markedsfører brugeren,
+  brugerens produkter eller tjenester.
+  
+  Det skal sikres, at brug af data er i overensstemmelse med dansk ret.
+  Kildeangivelse
+  
+  Ved brug af data kan følgende angives: ”Indeholder oplysninger fra
+  Styrelsen for Dataforsyning og Effektiviserings Adresse Web Services
+  (AWS Suiten).” Myndighedens rettigheder og ansvar
+  
+  Data stilles til rådighed, som de er, og myndigheden har intet ansvar
+  for hverken indhold, oprindelse, fejl og mangler eller nogen form for
+  skade, der måtte følge af brug af data.
+  
+  Myndigheden garanterer ikke den fortsatte tilrådighedsstillelse af
+  data, og kan til enhver tid ændre brugsretten til data og vilkårene
+  herfor. 
