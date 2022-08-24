@@ -4,7 +4,7 @@
    2.  Tilladelse til at bruge DSL's åbne sprogressourcer
    2.1 English version of 1.
    3.  Tilladelse til at bruge gadenavne
-
+   4.  Tilladelse til at bruge fuglenavne
 
 
      1.  DSDO's ret til at bruge tredjeparts ordlister med valgt licens
@@ -174,3 +174,55 @@ Styrelsens licens, https://download.aws.dk/licens, stipulerer:
   Myndigheden garanterer ikke den fortsatte tilrådighedsstillelse af
   data, og kan til enhver tid ændre brugsretten til data og vilkårene
   herfor. 
+
+                    4. Tilladelse til at bruge fuglenavne
+                    
+  Tilladelse er venligst givet af Svend Rønnest fra "Navnegruppen"
+  i Dansk Ornitologisk Forening:
+  
+    To: Morten Bo Johansen <xxx@xxx.dk>
+    From: Svend Rønnest <xxx@xxx.dk>
+    Subject: SV: Tilladelse til brug af fuglenavne?
+    Date: Fri, 5 Aug 2022 17:37:45 +0200
+    
+    Hej Morten,
+    Du er meget velkommen til at bruge vore navne, men vi vil også være glade
+    for en kreditering!
+    Det lyder som lidt af en opgave du har givet dig selv.
+    God dag
+    Svend Rønnest
+    
+    Sendt fra Mail til Windows
+    
+    Fra: Morten Bo Johansen
+    Til: svend.roennest@mail.tele.dk
+    Emne: Tilladelse til brug af fuglenavne?
+    
+    Hej
+    
+    Jeg har noteret mig, at DOF har udgivet en stor liste over
+    navne på alverdens fugle. Fantastisk arbejde!
+    
+    Jeg vedligeholder Den store danske ordliste (DSDO)¹, som
+    prætenderer en dag at blive en liste over samtlige danske ord.
+    I øjeblikket indeholder den da. 1,8 millioner ord. Listens
+    formål er p.t. mest, at være en kontrolliste i
+    stavekontrolprogrammer som f.eks. Aspell og orddatabase i
+    maskinoversættelsessystemer som Apertium..
+    
+    Listen er open source, gratis og ukommerciel.
+    
+    Jeg kunne ikke se nogen notits om ophavsret til listen over
+    fuglenavne, men jeg ville meget gerne inkludere alle
+    fuglenavnene i DSDO.
+    
+    Ville dette være OK med jer? Jeg vil i givet fald kreditere jer
+    sammen med de andre bidragsydere.
+    
+    ¹http://mbjnet.dk/dsdo/
+    
+    
+    Med venlig hilsen,
+    
+    Morten Bo Johansen
+
